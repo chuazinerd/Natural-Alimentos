@@ -1,0 +1,49 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrosel {
+    object-fit: cover;
+    object-position: 0 45%;
+    height: 400px;
+}
+
+.imagem-carrosel2 {
+    object-fit: cover;
+    /*object-position: 0 45%;*/
+    height: 400px; 
+}
+
+.botao-cor {
+    background-color: rgb(182, 12, 12);
+    color: white;
+}
+
+.borda-card {
+    border-color: rgb(182, 12, 12);
+}
+
+.lorem-font {
+    font-family: 'Dancing Script', 'cursive';
+    color: chocolate;
+    
+}
+/* tirar duvida sobre porque o texto não está formatando a cor e porque o uso do "color: chocolate!important;" é perigoso "*/
+#lorem-font {
+    color: darkgreen;
+    font-family: 'Dancing Script', 'cursive';
+    color: chocolate!important;
+    font-size: 25px;
+    
+}
+
+.teste-qualquer-coisa {
+    background-color: darkgreen;
+    color:darkgoldenrod
+}
+
+.card-position-img {
+    object-fit: cover;
+    /*object-position: 0 45%;*/
+    height: 200px;
+}
