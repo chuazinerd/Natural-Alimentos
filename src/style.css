@@ -28,7 +28,7 @@
     color: chocolate;
     
 }
-/* tirar duvida sobre porque o texto não está formatando a cor e porque o uso do "color: chocolate!important;" é perigoso "*/
+/* tirar duvida sobre porque o texto não está formatando a cor e porque o uso do (color: chocolate"!important";) é perigoso ". OBS:foi possível corrigir o !important do bootstrap com uso de uma "id"*/
 #lorem-font {
     color: darkgreen;
     font-family: 'Dancing Script', 'cursive';
